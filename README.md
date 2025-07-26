@@ -1,0 +1,1 @@
+| 3480 | [Maximize Subarrays...](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](./src/com/leetcode/p3480_maximizesubarrays/Solution.java) | Hard |
