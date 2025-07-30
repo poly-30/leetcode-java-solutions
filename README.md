@@ -10,4 +10,4 @@
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2411|[Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)|[Solution.java](2411_SmallestSubarrays/solution.java)|Medium|
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](./src/com/leetcode/p3480_maximizesubarrays/Solution.java)      | Hard       |
-| 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySumsolution.java) | Easy       |
+| 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy       |
