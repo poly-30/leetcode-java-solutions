@@ -5,6 +5,7 @@
 | 128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Solution.java](128_LongestConsecutiveSequence/solution.java)| Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Solution.java](209_MinimumSizeSubarraySum/solution.java)|Medium|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)|[Solution.java](898_BitwiseORsofSubarrays/solution.java)|Medium|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)|[Solution.java](904_FruitIntoBaskets/solution.java)|Medium|
 | 1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)|[Solution.java](1002_findCommonCharacters/solution.java)| Easy|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
