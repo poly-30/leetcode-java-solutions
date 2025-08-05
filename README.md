@@ -1,5 +1,6 @@
 | problem number | leetcode                                                        | Solution                                                                      | Difficulty |
 |-----|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution.java](1_TwoSum/solution.java)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution.java](23_MergekSortedLists/solution.java)| Hard|
 |118|[Pscal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution.java](118_Pascal/solution.java)|Easy|
 | 128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Solution.java](128_LongestConsecutiveSequence/solution.java)| Medium|
