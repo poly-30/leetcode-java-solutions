@@ -13,6 +13,7 @@
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)|[Solution.java](898_BitwiseORsofSubarrays/solution.java)|Medium|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)|[Solution.java](904_FruitIntoBaskets/solution.java)|Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution.java](938_RangeSumofBST/solution.java)|Easy|
+|986|[Interval List Intersections]()|[Solution.java](986_IntervalListIntersections/solution.java)|Medium|
 | 1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)|[Solution.java](1002_findCommonCharacters/solution.java)| Easy|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
