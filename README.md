@@ -26,5 +26,6 @@
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)|[Solution.java](2419_LongestSubarrayWithMaximum/solution.java)| Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
 |3477|[Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)|[Solution.java](3477_FruitsIntoBasketsII/solution.java)|Easy|
+|3479|[ Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/)|[Solution.java](3479_FruitsIntoBasketsIII/solution.java)|Medium|
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](3480_maximizesubarrays/solution.java)      | Hard       |
 | 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy       |
