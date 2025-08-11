@@ -27,6 +27,7 @@
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2411|[Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)|[Solution.java](2411_SmallestSubarrays/solution.java)|Medium|
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)|[Solution.java](2419_LongestSubarrayWithMaximum/solution.java)| Medium|
+|2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
 |3363|[Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)|[Solution.java](3363_FindtheMaximumNumberofFruitsCollected/solution.java)|Hard|
 |3477|[Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)|[Solution.java](3477_FruitsIntoBasketsII/solution.java)|Easy|
