@@ -25,7 +25,7 @@
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
 |2106|[Maximum Fruits Harvested After at Most K Steps](http://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)|[Solution.java](2106_MaximumFruitsHarvested/solution.java)|Hard|
 |2210|[ Count Hill and Valley in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|[Solution.java](2210_countHillAndValley/solution.java)|Easy|
-|2264|[Largest 3-Same-Digit Number in String]()|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
+|2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2411|[Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)|[Solution.java](2411_SmallestSubarrays/solution.java)|Medium|
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)|[Solution.java](2419_LongestSubarrayWithMaximum/solution.java)| Medium|
