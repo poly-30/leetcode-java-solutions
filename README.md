@@ -10,6 +10,7 @@
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[Solution.java](231_PowerOfTwo/solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution.java](257_BinaryTreePaths/solution.java)|Easy|
 |326|[Power Of Three](https://leetcode.com/problems/power-of-three/)|[Solution.java](326_PowerOfThree/solution.java)|Easy|
+|342|[Power Of Four](https://leetcode.com/problems/power-of-four/)|[Solution.java](342_PowerOfFour/solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution.java](347_TopKFrequentElements/solution.java)|Medium|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution.java](701_InsertintoaBinarySearchTree/solution.java)|Medium|
