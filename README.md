@@ -13,6 +13,7 @@
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four/)|[Solution.java](342_PowerOfFour/solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution.java](347_TopKFrequentElements/solution.java)|Medium|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Solution.java](563_BinaryTreeTilt/solution.java)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution.java](701_InsertintoaBinarySearchTree/solution.java)|Medium|
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings/ )|[Solution.java](808_SoupServings/solution.java)|Medium|
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/)|[Solution.java](837_New21Game/solution.java)|Medium|
