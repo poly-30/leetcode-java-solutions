@@ -28,6 +28,7 @@
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[Solution.java](1233_RemoveSubFoldersfromtheFilesystem/solution.java)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Soltion.java](1323_Maximum69Number/solution.java)|Easy|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
+|1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)|[Solution.java](1717_MaximumScoreFromRemovingSubstrings/solution.java)|Medium|
 |1948|[Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/)|[Solution.java](1948_DeleteDuplicateFoldersinSystem/solution.java)|Hard|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Solution.java](1957_DeleteCharacterstoMakeFancyString/solution.java)|Easy|
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
