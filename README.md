@@ -2,6 +2,7 @@
 |-----|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution.java](1_TwoSum/solution.java)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution.java](23_MergekSortedLists/solution.java)| Hard|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution.java](56_MergeIntervals/solution.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution.java](110_BalancedBinaryTree/solution.java)|Easy|
 |118|[Pscal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution.java](118_Pascal/solution.java)|Easy|
 | 128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Solution.java](128_LongestConsecutiveSequence/solution.java)| Medium|
@@ -44,4 +45,5 @@
 |3477|[Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)|[Solution.java](3477_FruitsIntoBasketsII/solution.java)|Easy|
 |3479|[ Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/)|[Solution.java](3479_FruitsIntoBasketsIII/solution.java)|Medium|
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](3480_maximizesubarrays/solution.java)      | Hard       |
-| 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy       |
+| 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy|
+|3618|[Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/description/)|[Solution.java](3618_SplitArraybyPrimeIndices/solution.java)|Medium|
