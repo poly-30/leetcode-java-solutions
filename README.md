@@ -15,6 +15,7 @@
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution.java](701_InsertintoaBinarySearchTree/solution.java)|Medium|
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings/ )|[Solution.java](808_SoupServings/solution.java)|Medium|
+|837|[New 21 Game](https://leetcode.com/problems/new-21-game/)|[Solution.java](837_New21Game/solution.java)|Medium|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)|[Soution.java](862_ShortestSubarraywithSumatLeastK/solution.java)|Hard|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/)|[Solution.java](869_ReorderedPowerof2/solution.java)|Medium|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)|[Solution.java](898_BitwiseORsofSubarrays/solution.java)|Medium|
