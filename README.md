@@ -25,6 +25,7 @@
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution.java](938_RangeSumofBST/solution.java)|Easy|
 |986|[Interval List Intersections]()|[Solution.java](986_IntervalListIntersections/solution.java)|Medium|
 | 1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)|[Solution.java](1002_findCommonCharacters/solution.java)| Easy|
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[Solution.java](1233_RemoveSubFoldersfromtheFilesystem/solution.java)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Soltion.java](1323_Maximum69Number/solution.java)|Easy|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
@@ -47,3 +48,4 @@
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](3480_maximizesubarrays/solution.java)      | Hard       |
 | 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy|
 |3618|[Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/description/)|[Solution.java](3618_SplitArraybyPrimeIndices/solution.java)|Medium|
+|3619|[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/)|[Solution.java](3619_CountIslandsWithTotalValue/solution.java)|Medium|
