@@ -38,6 +38,7 @@
 |2210|[ Count Hill and Valley in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|[Solution.java](2210_countHillAndValley/solution.java)|Easy|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
+|2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[Solution.java](2348_NumberofZeroFilledSubarrays/solution.java)|Medium|
 |2411|[Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)|[Solution.java](2411_SmallestSubarrays/solution.java)|Medium|
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)|[Solution.java](2419_LongestSubarrayWithMaximum/solution.java)| Medium|
 |2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
