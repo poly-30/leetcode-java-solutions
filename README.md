@@ -29,7 +29,7 @@
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[Solution.java](1233_RemoveSubFoldersfromtheFilesystem/solution.java)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)|[Solution.java](1277_CountSquareSubmatriceswithAllOnes/solution.java)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Soltion.java](1323_Maximum69Number/solution.java)|Easy|
-|1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)|[Solution.java](1504_CountSubmatricesWithAllOnes)|Medium|
+|1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)|[Solution.java](1504_CountSubmatricesWithAllOnes/solution.java)|Medium|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)|[Solution.java](1717_MaximumScoreFromRemovingSubstrings/solution.java)|Medium|
 |1948|[Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/)|[Solution.java](1948_DeleteDuplicateFoldersinSystem/solution.java)|Hard|
@@ -46,6 +46,7 @@
 |2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
 |2787|[ Ways to Express an Integer as Sum of Power](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)|[Solution.java](2787_WaystoExpressanIntegerasSumofPowers/solution.java)|Medium|
+|3195|[Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.java](3195_FindtheMinimumAreatoCoverAllOnesI/solution.java)|Medium|
 |3201|[Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)|[Solution.java](3201_FindtheMaximumLength/solution.java)|Medium|
 |3202|[Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)|[Solution.java](3202_FindtheMaximumLengthof/solution.java)|Medium|
 |3330|[Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)|[Solution.java](3330_FindtheOriginalTypedStringI/solution.java)|Easy|
