@@ -1,5 +1,9 @@
-| problem number | leetcode                                                        | Solution                                                                      | Difficulty |
-|-----|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------|
+# LEETCODE PROBLEM SOLUTIONS
+-----------------------------------------------------------------------
+## LANGUAGE : JAVA
+### CODE BY POLY
+| problem number | leetcode | Solution | Difficulty |
+|----------------|----------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution.java](1_TwoSum/solution.java)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution.java](23_MergekSortedLists/solution.java)| Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution.java](56_MergeIntervals/solution.java)|Medium|
