@@ -47,6 +47,7 @@
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
 |2787|[ Ways to Express an Integer as Sum of Power](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)|[Solution.java](2787_WaystoExpressanIntegerasSumofPowers/solution.java)|Medium|
 |3195|[Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.java](3195_FindtheMinimumAreatoCoverAllOnesI/solution.java)|Medium|
+|3197|[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.java](3197_FindMinimumAreatoCoverAllOnesII/solution.java)|Hard|
 |3201|[Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)|[Solution.java](3201_FindtheMaximumLength/solution.java)|Medium|
 |3202|[Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)|[Solution.java](3202_FindtheMaximumLengthof/solution.java)|Medium|
 |3330|[Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)|[Solution.java](3330_FindtheOriginalTypedStringI/solution.java)|Easy|
