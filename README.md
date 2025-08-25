@@ -18,6 +18,7 @@
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four/)|[Solution.java](342_PowerOfFour/solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution.java](347_TopKFrequentElements/solution.java)|Medium|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
+|498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.java](498_DiagonalTraverse/solution.java)|Medium|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Solution.java](563_BinaryTreeTilt/solution.java)|Easy|
 |679|[24 Games](https://leetcode.com/problems/24-game/)|[Solution.java](679_24Game/solution.java)|Hard|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution.java](701_InsertintoaBinarySearchTree/solution.java)|Medium|
