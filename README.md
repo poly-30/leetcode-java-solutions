@@ -1,7 +1,7 @@
 # LEETCODE PROBLEM SOLUTIONS
 -----------------------------------------------------------------------
 ## LANGUAGE : JAVA
-### CODE BY POLY
+#### CODE BY POLY
 | problem number | leetcode | Solution | Difficulty |
 |----------------|----------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution.java](1_TwoSum/solution.java)|Easy|
@@ -53,6 +53,7 @@
 |2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
 |2787|[ Ways to Express an Integer as Sum of Power](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)|[Solution.java](2787_WaystoExpressanIntegerasSumofPowers/solution.java)|Medium|
+|3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)|[Solution.java](3000_MaximumAreaofLongestDiagonalRectangle/solution.java)|Easy|
 |3195|[Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.java](3195_FindtheMinimumAreatoCoverAllOnesI/solution.java)|Medium|
 |3197|[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.java](3197_FindMinimumAreatoCoverAllOnesII/solution.java)|Hard|
 |3201|[Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)|[Solution.java](3201_FindtheMaximumLength/solution.java)|Medium|
