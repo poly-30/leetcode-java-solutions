@@ -1,43 +1,42 @@
 # The path to your README.md file
 readme_path = 'README.md'
+# The text to look for to identify the line to update
+count_marker = "#### Total Solved:"
 
-print("--- Starting Diagnostic ---")
-
-# Try to read the file
+# Read the content of the README file
 try:
     with open(readme_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    print(f"Successfully read {len(lines)} lines from {readme_path}")
 except FileNotFoundError:
     print(f"Error: The file {readme_path} was not found.")
     exit(1)
 
-# Analyze each line
+# Count the number of solution rows
 solution_count = 0
-for i, line in enumerate(lines):
-    # This is the logic we are testing
+for line in lines:
+    # A line is a solution if it starts with '|' after trimming whitespace,
+    # and is not the header or separator line.
     clean_line = line.strip()
-    is_solution_row = (
-        clean_line.startswith('|') and
-        '---' not in clean_line and
-        'problem number' not in clean_line.lower()
-    )
+    if clean_line.startswith('|') and '---' not in clean_line and 'problem number' not in clean_line.lower():
+        solution_count += 1
 
-    # Print analysis for lines that look like they could be table rows
-    if '|' in line:
-        print("\n--------------------------")
-        print(f"Line #{i+1}: '{line.strip()}'") # Print the cleaned line in quotes to see whitespace
-        print(f"Does it start with '|'? -> {clean_line.startswith('|')}")
+# Find and update the line with the total count
+updated_lines = []
+found_marker = False
+for line in lines:
+    # Use strip() here to handle potential whitespace around the marker
+    if line.strip().startswith(count_marker):
+        updated_lines.append(f"{count_marker} {solution_count}\n")
+        found_marker = True
+    else:
+        updated_lines.append(line)
 
-        if clean_line:
-            # Print the character code of the first character. A normal pipe '|' is 124.
-            first_char_code = ord(clean_line[0])
-            print(f"ASCII/Unicode code of first character: {first_char_code} (A normal '|' is 124)")
+if not found_marker:
+    print(f"Error: Marker '{count_marker}' not found in README.md.")
+    exit(1)
 
-        print(f"Is it a solution row? -> {is_solution_row}")
+# Write the updated content back to the README file
+with open(readme_path, 'w', encoding='utf-8') as f:
+    f.writelines(updated_lines)
 
-        if is_solution_row:
-            solution_count += 1
-
-print("\n--- Diagnostic Complete ---")
-print(f"Final calculated count: {solution_count}")
+print(f"✅ README updated successfully with a total of {solution_count} solutions.")
