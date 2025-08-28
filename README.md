@@ -1,5 +1,5 @@
 # LEETCODE PROBLEM SOLUTIONS
-#### Total Solved:
+#### Total Solved: 0
 -----------------------------------------------------------------------
 ## LANGUAGE : JAVA
 #### CODE BY POLY
