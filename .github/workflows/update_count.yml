@@ -1,5 +1,20 @@
 name: Update LeetCode Solution Count
 
+# ADD THIS BLOCK TO GRANT WRITE PERMISSIONS
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - main # Or 'master'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # ... the rest of your file remains the same
+
 # This action runs on every push to the main branch
 on:
   push:
