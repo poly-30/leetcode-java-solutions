@@ -1,0 +1,32 @@
+name: Update LeetCode Solution Count
+
+# This action runs on every push to the main branch
+on:
+  push:
+    branches:
+      - main  # Or 'master' if that's your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out your repository code so the workflow can access it
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      # Step 2: Set up the Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # You can use any recent Python version
+
+      # Step 3: Run the Python script to update the README
+      - name: Update README count
+        run: python update_readme.py
+
+      # Step 4: Commit the changes back to the repository
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Update LeetCode solution count"
+          file_pattern: README.md
