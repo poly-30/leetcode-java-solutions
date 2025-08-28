@@ -1,7 +1,7 @@
 # The path to your README.md file
 readme_path = 'README.md'
 # The text to look for to identify the line to update
-count_marker = "#### Total Solved:"
+count_marker = "Total Solved:"
 
 # Read the content of the README file
 try:
