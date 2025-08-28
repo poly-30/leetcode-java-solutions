@@ -1,5 +1,5 @@
 # LEETCODE PROBLEM SOLUTIONS
-#### Total Solved: 0
+count_marker = "Total Solved:"
 -----------------------------------------------------------------------
 ## LANGUAGE : JAVA
 #### CODE BY POLY
