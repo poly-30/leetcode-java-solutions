@@ -1,35 +1,35 @@
-import re
-
 # The path to your README.md file
 readme_path = 'README.md'
 # The text to look for to identify the line to update
 count_marker = "#### Total Solved:"
-# The regex pattern to identify a solution row in the table
-# This looks for lines starting with '|' and containing a number in the first column
-solution_row_pattern = re.compile(r'\|\s*\d+\s*\|')
 
 # Read the content of the README file
-with open(readme_path, 'r', encoding='utf-8') as f:
-    lines = f.readlines()
+try:
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+except FileNotFoundError:
+    print(f"Error: The file {readme_path} was not found.")
+    exit(1)
 
 # Count the number of solution rows
 solution_count = 0
 for line in lines:
-    if solution_row_pattern.match(line):
+    # A line is a solution if it starts with '|' after trimming whitespace,
+    # and is not the header separator line ('---').
+    clean_line = line.strip()
+    if clean_line.startswith('|') and '---' not in clean_line and 'problem number' not in clean_line.lower():
         solution_count += 1
 
 # Find and update the line with the total count
 updated_lines = []
 found_marker = False
 for line in lines:
-    if line.startswith(count_marker):
+    if line.strip().startswith(count_marker):
         updated_lines.append(f"{count_marker} {solution_count}\n")
         found_marker = True
     else:
         updated_lines.append(line)
 
-# If the marker line wasn't found, we can't update.
-# (This is a safeguard, but it should be there from Step 1)
 if not found_marker:
     print(f"Error: Marker '{count_marker}' not found in README.md.")
     exit(1)
