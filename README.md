@@ -8,6 +8,7 @@ Total Solved: 66
 |----------------|----------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution.java](1_TwoSum/solution.java)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution.java](23_MergekSortedLists/solution.java)| Hard|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.java](36_ValidSudoku/solution.java)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution.java](56_MergeIntervals/solution.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution.java](110_BalancedBinaryTree/solution.java)|Easy|
 |118|[Pscal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution.java](118_Pascal/solution.java)|Easy|
