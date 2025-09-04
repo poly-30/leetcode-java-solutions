@@ -11,6 +11,7 @@ Total Solved: 73
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.java](36_ValidSudoku/solution.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution.java](37_SudokuSolver/solution.java)|hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution.java](56_MergeIntervals/solution.java)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution.java](98_ValidateBinarySearchTree/solution.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution.java](110_BalancedBinaryTree/solution.java)|Easy|
 |118|[Pscal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution.java](118_Pascal/solution.java)|Easy|
 | 128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Solution.java](128_LongestConsecutiveSequence/solution.java)| Medium|
