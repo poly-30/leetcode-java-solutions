@@ -75,7 +75,7 @@ Total Solved: 73
 |3479|[ Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/)|[Solution.java](3479_FruitsIntoBasketsIII/solution.java)|Medium|
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](3480_maximizesubarrays/solution.java)      | Hard       |
 | 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy|
-|3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/)|Solution.java](3516_FindClosestPerson/solution.java)|Easy|
+|3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/)|[Solution.java](3516_FindClosestPerson/solution.java)|Easy|
 |3618|[Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/description/)|[Solution.java](3618_SplitArraybyPrimeIndices/solution.java)|Medium|
 |3619|[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/)|[Solution.java](3619_CountIslandsWithTotalValue/solution.java)|Medium|
 |3620|[Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/)|[Solution.java](3620_NetworkRecoveryPathways/solution.java)|Hard|
