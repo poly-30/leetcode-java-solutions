@@ -41,7 +41,7 @@ Total Solved: 79
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[Solution.java](1233_RemoveSubFoldersfromtheFilesystem/solution.java)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)|[Solution.java](1277_CountSquareSubmatriceswithAllOnes/solution.java)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution.java](1304_FindNUniqueIntegersSumuptoZero/solution.java)|Easy|
-|1304|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.java](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.java)|Easy|
+|1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.java](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.java)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Soltion.java](1323_Maximum69Number/solution.java)|Easy|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution.java](1352_ProductoftheLastKNumbers/solution.java)|Medium|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.java](1493_LongestSubarrayof1sAfterDeletingOneElement/solultion.java)|Medium|
