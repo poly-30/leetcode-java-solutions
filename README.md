@@ -48,6 +48,7 @@ Total Solved: 80
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)|[Solution.java](1504_CountSubmatricesWithAllOnes/solution.java)|Medium|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)|[Solution.java](1717_MaximumScoreFromRemovingSubstrings/solution.java)|Medium|
+|1733|[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)|[Solution.java](1733_MinimumNumberofPeopletoTeach/solution.java)|Medium|
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution.java](1792_MaximumAveragePassRatio/solution.java)|Medium|
 |1948|[Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/)|[Solution.java](1948_DeleteDuplicateFoldersinSystem/solution.java)|Hard|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Solution.java](1957_DeleteCharacterstoMakeFancyString/solution.java)|Easy|
