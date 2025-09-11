@@ -65,6 +65,7 @@ Total Solved: 81
 |2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
 |2749|[Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/)|[Solution.java](2749_MinimumOperationstoMaketheIntegerZero/solution.java)|Medium|
+|2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[Solution.java](2785_SortVowelsinaString/solution.java)|Medium|
 |2787|[ Ways to Express an Integer as Sum of Power](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)|[Solution.java](2787_WaystoExpressanIntegerasSumofPowers/solution.java)|Medium|
 |3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)|[Solution.java](3000_MaximumAreaofLongestDiagonalRectangle/solution.java)|Easy|
 |3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)|[Solution.java](3021_AliceandBobPlayingFlowerGame/solution.java)|Medium|
