@@ -75,6 +75,7 @@ Total Solved: 82
 |3197|[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.java](3197_FindMinimumAreatoCoverAllOnesII/solution.java)|Hard|
 |3201|[Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)|[Solution.java](3201_FindtheMaximumLength/solution.java)|Medium|
 |3202|[Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)|[Solution.java](3202_FindtheMaximumLengthof/solution.java)|Medium|
+|3227|[Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)|[Solution.java](3227_VowelsGameinaString/solution.java)|Medium|
 |3330|[Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)|[Solution.java](3330_FindtheOriginalTypedStringI/solution.java)|Easy|
 |3363|[Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)|[Solution.java](3363_FindtheMaximumNumberofFruitsCollected/solution.java)|Hard|
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)|[Solution.java](3446_SortMatrixbyDiagonals/solution.java)|Medium|
