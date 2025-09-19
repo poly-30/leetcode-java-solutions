@@ -57,6 +57,7 @@ Total Solved: 86
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
 |2106|[Maximum Fruits Harvested After at Most K Steps](http://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)|[Solution.java](2106_MaximumFruitsHarvested/solution.java)|Hard|
 |2163|[Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)|[Solution.java](2163_MinimumDifferenceinSums/solution.java)|Hard|
+|2197|[Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)|[Solution.java](2197_ReplaceNonCoprimeNumbersinArray/solution.java)|Hard|
 |2210|[ Count Hill and Valley in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|[Solution.java](2210_countHillAndValley/solution.java)|Easy|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
