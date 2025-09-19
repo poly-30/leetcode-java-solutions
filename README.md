@@ -51,6 +51,7 @@ Total Solved: 85
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)|[Solution.java](1717_MaximumScoreFromRemovingSubstrings/solution.java)|Medium|
 |1733|[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)|[Solution.java](1733_MinimumNumberofPeopletoTeach/solution.java)|Medium|
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution.java](1792_MaximumAveragePassRatio/solution.java)|Medium|
+|1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Solution.java](1935_MaximumNumberofWordsYouCanType/solution.java)|Easy|
 |1948|[Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/)|[Solution.java](1948_DeleteDuplicateFoldersinSystem/solution.java)|Hard|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Solution.java](1957_DeleteCharacterstoMakeFancyString/solution.java)|Easy|
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)|[Solution.java](2044_CountNumber/solution.java)|Medium|
