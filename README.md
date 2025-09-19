@@ -36,6 +36,7 @@ Total Solved: 84
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)|[Solution.java](904_FruitIntoBaskets/solution.java)|Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution.java](938_RangeSumofBST/solution.java)|Easy|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)|[Solution.java](946_ValidateStackSequences/solution.java)|Medium|
+|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)|[Solution.java](966_VowelSpellchecker/solution.java)|Medium|
 |986|[Interval List Intersections]()|[Solution.java](986_IntervalListIntersections/solution.java)|Medium|
 | 1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)|[Solution.java](1002_findCommonCharacters/solution.java)| Easy|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[Solution.java](1233_RemoveSubFoldersfromtheFilesystem/solution.java)|Medium|
