@@ -92,6 +92,7 @@ Total Solved: 91
 |3484|[Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/)|[Solution.java](3484_DesignSpreadsheet/solution.java)|Medium|
 | 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.java](3495_MinimumOperationstoMakeArrayElementsZero/solution.java)|Hard|
+|3508|[Implement Router](https://leetcode.com/problems/implement-router/description)|[Solution.java](3508_ImplementRouter/solution.java)|Medium|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/)|[Solution.java](3516_FindClosestPerson/solution.java)|Easy|
 |3541|[Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)|[Solution.java](3541_FindMostFrequentVowelandConsonant/solution.java)|Easy|
 |3618|[Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/description/)|[Solution.java](3618_SplitArraybyPrimeIndices/solution.java)|Medium|
