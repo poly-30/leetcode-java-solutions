@@ -63,6 +63,7 @@ Total Solved: 87
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.java](2327_NumberofPeopleAwareofaSecret/solution.java)|Medium|
 |2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[Solution.java](2348_NumberofZeroFilledSubarrays/solution.java)|Medium|
+|2353|[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)|[Solution.java](2353_DesignaFoodRatingSystem/solution.java)|Medium|
 |2411|[Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)|[Solution.java](2411_SmallestSubarrays/solution.java)|Medium|
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)|[Solution.java](2419_LongestSubarrayWithMaximum/solution.java)| Medium|
 |2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
