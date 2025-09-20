@@ -89,6 +89,7 @@ Total Solved: 90
 |3477|[Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)|[Solution.java](3477_FruitsIntoBasketsII/solution.java)|Easy|
 |3479|[ Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/)|[Solution.java](3479_FruitsIntoBasketsIII/solution.java)|Medium|
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](3480_maximizesubarrays/solution.java)|Hard|
+|3484|[Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/)|[Solution.java](3484_DesignSpreadsheet/solution.java)|Medium|
 | 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.java](3495_MinimumOperationstoMakeArrayElementsZero/solution.java)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/)|[Solution.java](3516_FindClosestPerson/solution.java)|Easy|
