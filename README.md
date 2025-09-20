@@ -82,6 +82,7 @@ Total Solved: 88
 |3227|[Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)|[Solution.java](3227_VowelsGameinaString/solution.java)|Medium|
 |3330|[Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)|[Solution.java](3330_FindtheOriginalTypedStringI/solution.java)|Easy|
 |3363|[Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)|[Solution.java](3363_FindtheMaximumNumberofFruitsCollected/solution.java)|Hard|
+|3408|[Design Task Manager](https://leetcode.com/problems/design-task-manager/)|[Solution.java](3408_DesignTaskManager/solution.java)|Medium|
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)|[Solution.java](3446_SortMatrixbyDiagonals/solution.java)|Medium|
 |3459|[Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment)|[Solution.java](3459_LengthofLongestVShapedDiagonalSegment/solution.java)|Hard|
 |3477|[Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)|[Solution.java](3477_FruitsIntoBasketsII/solution.java)|Easy|
