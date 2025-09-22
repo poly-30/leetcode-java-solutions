@@ -7,6 +7,7 @@ Total Solved: 95
 | problem number | leetcode | Solution | Difficulty |
 |----------------|----------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution.java](1_TwoSum/solution.java)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution.java](2_AddTwoNumbers/solution.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution.java](23_MergekSortedLists/solution.java)| Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.java](36_ValidSudoku/solution.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution.java](37_SudokuSolver/solution.java)|hard|
