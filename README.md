@@ -75,6 +75,7 @@ Total Solved: 94
 |2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[Solution.java](2785_SortVowelsinaString/solution.java)|Medium|
 |2787|[ Ways to Express an Integer as Sum of Power](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)|[Solution.java](2787_WaystoExpressanIntegerasSumofPowers/solution.java)|Medium|
 |3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)|[Solution.java](3000_MaximumAreaofLongestDiagonalRectangle/solution.java)|Easy|
+|3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[Solution.java](3005_CountElementsWithMaximumFrequency/solution.java)|Easy|
 |3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)|[Solution.java](3021_AliceandBobPlayingFlowerGame/solution.java)|Medium|
 |3025|[Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/)|[Solution.java](3025_FindtheNumberofWaystoPlacePeopleI/solution.java)|Medium|
 |3027|[Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii)|[Solution.java](3027_FindtheNumberofWaystoPlacePeopleII/solution.java)|Hard|
