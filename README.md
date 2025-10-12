@@ -36,9 +36,11 @@ Total Solved: 103
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.java](498_DiagonalTraverse/solution.java)|Medium|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Solution.java](563_BinaryTreeTilt/solution.java)|Easy|
+|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.java](611_ValidTriangleNumber/Solution.java)|Medium|
 |679|[24 Games](https://leetcode.com/problems/24-game/)|[Solution.java](679_24Game/solution.java)|Hard|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution.java](701_InsertintoaBinarySearchTree/solution.java)|Medium|
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings/ )|[Solution.java](808_SoupServings/solution.java)|Medium|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Solution.java](812_LargestTriangleArea/solution.java)|Easy|
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/)|[Solution.java](837_New21Game/solution.java)|Medium|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)|[Soution.java](862_ShortestSubarraywithSumatLeastK/solution.java)|Hard|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/)|[Solution.java](869_ReorderedPowerof2/solution.java)|Medium|
