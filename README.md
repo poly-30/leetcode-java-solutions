@@ -49,8 +49,10 @@ Total Solved: 105
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution.java](938_RangeSumofBST/solution.java)|Easy|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)|[Solution.java](946_ValidateStackSequences/solution.java)|Medium|
 |966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)|[Solution.java](966_VowelSpellchecker/solution.java)|Medium|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Solution.java](976_LargestPerimeterTriangle/solution.java)|Easy|
 |986|[Interval List Intersections]()|[Solution.java](986_IntervalListIntersections/solution.java)|Medium|
 | 1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)|[Solution.java](1002_findCommonCharacters/solution.java)| Easy|
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Solution.java](1039_MinimumScoreTriangulationofPolygon/solution.java)|Medium|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[Solution.java](1233_RemoveSubFoldersfromtheFilesystem/solution.java)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)|[Solution.java](1277_CountSquareSubmatriceswithAllOnes/solution.java)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution.java](1304_FindNUniqueIntegersSumuptoZero/solution.java)|Easy|
