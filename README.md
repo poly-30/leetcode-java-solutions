@@ -63,6 +63,7 @@ Total Solved: 109
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution.java](1352_ProductoftheLastKNumbers/solution.java)|Medium|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.java](1493_LongestSubarrayof1sAfterDeletingOneElement/solultion.java)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)|[Solution.java](1504_CountSubmatricesWithAllOnes/solution.java)|Medium|
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Solution.java](1518_WaterBottles)|Easy|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)|[Solution.java](1717_MaximumScoreFromRemovingSubstrings/solution.java)|Medium|
 |1733|[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)|[Solution.java](1733_MinimumNumberofPeopletoTeach/solution.java)|Medium|
@@ -76,6 +77,7 @@ Total Solved: 109
 |2163|[Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)|[Solution.java](2163_MinimumDifferenceinSums/solution.java)|Hard|
 |2197|[Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)|[Solution.java](2197_ReplaceNonCoprimeNumbersinArray/solution.java)|Hard|
 |2210|[ Count Hill and Valley in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|[Solution.java](2210_countHillAndValley/solution.java)|Easy|
+|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution.java](2221_FindTriangularSumofanArray/solution.java)|Medium|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.java](2327_NumberofPeopleAwareofaSecret/solution.java)|Medium|
