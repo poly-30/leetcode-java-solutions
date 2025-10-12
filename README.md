@@ -63,7 +63,7 @@ Total Solved: 111
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution.java](1352_ProductoftheLastKNumbers/solution.java)|Medium|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.java](1493_LongestSubarrayof1sAfterDeletingOneElement/solultion.java)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)|[Solution.java](1504_CountSubmatricesWithAllOnes/solution.java)|Medium|
-|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Solution.java](1518_WaterBottles)|Easy|
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Solution.java](1518_WaterBottles/solution.java)|Easy|
 | 1695| [ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution.java](1695_maximumErasureValue/solution.java) | Medium |
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)|[Solution.java](1717_MaximumScoreFromRemovingSubstrings/solution.java)|Medium|
 |1733|[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)|[Solution.java](1733_MinimumNumberofPeopletoTeach/solution.java)|Medium|
