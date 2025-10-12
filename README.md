@@ -19,6 +19,7 @@ Total Solved: 107
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution.java](98_ValidateBinarySearchTree/solution.java)|Medium|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Solution.java](99_RecoverBinarySearchTree/solution.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution.java](102_BinaryTreeLevelOrderTraversal/solution.java)|Medium|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution.java](103_BinaryTreeZigzagLevelOrderTraversal/solution.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution.java](110_BalancedBinaryTree/solution.java)|Easy|
 |118|[Pscal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution.java](118_Pascal/solution.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Solution.java](120_Triangle/solution.java)|Medium|
@@ -44,6 +45,7 @@ Total Solved: 107
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/)|[Solution.java](837_New21Game/solution.java)|Medium|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)|[Soution.java](862_ShortestSubarraywithSumatLeastK/solution.java)|Hard|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/)|[Solution.java](869_ReorderedPowerof2/solution.java)|Medium|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Solution.java](897_IncreasingOrderSearchTree/solution.java)|Easy|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)|[Solution.java](898_BitwiseORsofSubarrays/solution.java)|Medium|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)|[Solution.java](904_FruitIntoBaskets/solution.java)|Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution.java](938_RangeSumofBST/solution.java)|Easy|
