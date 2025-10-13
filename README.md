@@ -30,6 +30,7 @@ Total Solved: 116
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution.java](166_FractiontoRecurringDecimal/solution.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution.java](199_BinaryTreeRightSideView/solution.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Solution.java](209_MinimumSizeSubarraySum/solution.java)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution.java](226_InvertBinaryTree/solution.java)|Easy|
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[Solution.java](231_PowerOfTwo/solution.java)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution.java](257_BinaryTreePaths/solution.java)|Easy|
 |326|[Power Of Three](https://leetcode.com/problems/power-of-three/)|[Solution.java](326_PowerOfThree/solution.java)|Easy|
@@ -43,6 +44,7 @@ Total Solved: 116
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.java](611_ValidTriangleNumber/Solution.java)|Medium|
 |679|[24 Games](https://leetcode.com/problems/24-game/)|[Solution.java](679_24Game/solution.java)|Hard|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution.java](701_InsertintoaBinarySearchTree/solution.java)|Medium|
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Solution.java](778_SwiminRisingWater/solution.java)|Hard|
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings/ )|[Solution.java](808_SoupServings/solution.java)|Medium|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Solution.java](812_LargestTriangleArea/solution.java)|Easy|
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/)|[Solution.java](837_New21Game/solution.java)|Medium|
