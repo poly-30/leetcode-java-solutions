@@ -79,6 +79,7 @@ Total Solved: 111
 |2210|[ Count Hill and Valley in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|[Solution.java](2210_countHillAndValley/solution.java)|Easy|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution.java](2221_FindTriangularSumofanArray/solution.java)|Medium|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
+|2273|[Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)|[Solution.java](2273_FindResultantArrayAfterRemovingAnagrams/solution.java)|Easy|
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.java](2327_NumberofPeopleAwareofaSecret/solution.java)|Medium|
 |2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[Solution.java](2348_NumberofZeroFilledSubarrays/solution.java)|Medium|
