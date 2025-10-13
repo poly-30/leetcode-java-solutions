@@ -34,6 +34,7 @@ Total Solved: 112
 |326|[Power Of Three](https://leetcode.com/problems/power-of-three/)|[Solution.java](326_PowerOfThree/solution.java)|Easy|
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four/)|[Solution.java](342_PowerOfFour/solution.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution.java](347_TopKFrequentElements/solution.java)|Medium|
+|407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Solution.java](407_TrappingRainWaterII/solution.java)|Hard|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.java](498_DiagonalTraverse/solution.java)|Medium|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Solution.java](563_BinaryTreeTilt/solution.java)|Easy|
@@ -96,6 +97,7 @@ Total Solved: 112
 |3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)|[Solution.java](3021_AliceandBobPlayingFlowerGame/solution.java)|Medium|
 |3025|[Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/)|[Solution.java](3025_FindtheNumberofWaystoPlacePeopleI/solution.java)|Medium|
 |3027|[Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii)|[Solution.java](3027_FindtheNumberofWaystoPlacePeopleII/solution.java)|Hard|
+|3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Solution.java](3100_WaterBottlesII/solution.java)|Medium|
 |3195|[Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.java](3195_FindtheMinimumAreatoCoverAllOnesI/solution.java)|Medium|
 |3197|[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.java](3197_FindMinimumAreatoCoverAllOnesII/solution.java)|Hard|
 |3201|[Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)|[Solution.java](3201_FindtheMaximumLength/solution.java)|Medium|
