@@ -66,6 +66,7 @@ Total Solved: 118
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.java](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.java)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Soltion.java](1323_Maximum69Number/solution.java)|Easy|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution.java](1352_ProductoftheLastKNumbers/solution.java)|Medium|
+|1488|[Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)|[Solution.java](1488_AvoidFloodinTheCity/solution.java)|Medium|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.java](1493_LongestSubarrayof1sAfterDeletingOneElement/solultion.java)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)|[Solution.java](1504_CountSubmatricesWithAllOnes/solution.java)|Medium|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Solution.java](1518_WaterBottles/solution.java)|Easy|
@@ -85,6 +86,7 @@ Total Solved: 118
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution.java](2221_FindTriangularSumofanArray/solution.java)|Medium|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Solution.java](2264_Largest3-Same-DigitNumberinString/solution.java)|Easy|
 |2273|[Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)|[Solution.java](2273_FindResultantArrayAfterRemovingAnagrams/solution.java)|Easy|
+|2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Solution.java](2300_SuccessfulPairsofSpellsandPotions/solution.java)|Medium|
 | 2322| [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Solution.java](2322_minimumScoreAfterRemovals/solution.java) | Hard |
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.java](2327_NumberofPeopleAwareofaSecret/solution.java)|Medium|
 |2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[Solution.java](2348_NumberofZeroFilledSubarrays/solution.java)|Medium|
@@ -117,6 +119,7 @@ Total Solved: 118
 | 3480| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Solution.java](3480_maximizesubarrays/solution.java)|Hard|
 |3484|[Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/)|[Solution.java](3484_DesignSpreadsheet/solution.java)|Medium|
 | 3487| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Solution.java](3487_maximumUniqueSubarraySum/solution.java) | Easy|
+|3494|[Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/)|[Solution.java](3494_FindtheMinimumAmountofTimetoBrewPotions/solution.java)|Medium|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.java](3495_MinimumOperationstoMakeArrayElementsZero/solution.java)|Hard|
 |3508|[Implement Router](https://leetcode.com/problems/implement-router/description)|[Solution.java](3508_ImplementRouter/solution.java)|Medium|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/)|[Solution.java](3516_FindClosestPerson/solution.java)|Easy|
