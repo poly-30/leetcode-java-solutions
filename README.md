@@ -104,6 +104,7 @@ Total Solved: 121
 |3025|[Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/)|[Solution.java](3025_FindtheNumberofWaystoPlacePeopleI/solution.java)|Medium|
 |3027|[Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii)|[Solution.java](3027_FindtheNumberofWaystoPlacePeopleII/solution.java)|Hard|
 |3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Solution.java](3100_WaterBottlesII/solution.java)|Medium|
+|3147|[Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/)|[Solution.java](3147_TakingMaximumEnergyFromtheMysticDungeon/solution.java)|Medium|
 |3195|[Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.java](3195_FindtheMinimumAreatoCoverAllOnesI/solution.java)|Medium|
 |3197|[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.java](3197_FindMinimumAreatoCoverAllOnesII/solution.java)|Hard|
 |3201|[Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)|[Solution.java](3201_FindtheMaximumLength/solution.java)|Medium|
