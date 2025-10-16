@@ -97,6 +97,7 @@ Total Solved: 129
 |2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)|[Solution.java](2419_LongestSubarrayWithMaximum/solution.java)| Medium|
 |2438|[Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)|[Solution.java](2438_RangeProductQueriesofPowers/solution.java)|Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/)|[Solution.java](2561_RearrangingFruits/solution.java)|Hard|
+|2598|[Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)|[Solution.java](2598_SmallestMissingNonnegativeIntegerAfterOperations/solution.java)|Medium|
 |2749|[Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/)|[Solution.java](2749_MinimumOperationstoMaketheIntegerZero/solution.java)|Medium|
 |2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[Solution.java](2785_SortVowelsinaString/solution.java)|Medium|
 |2787|[ Ways to Express an Integer as Sum of Power](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)|[Solution.java](2787_WaystoExpressanIntegerasSumofPowers/solution.java)|Medium|
@@ -115,6 +116,7 @@ Total Solved: 129
 |3227|[Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)|[Solution.java](3227_VowelsGameinaString/solution.java)|Medium|
 |3330|[Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)|[Solution.java](3330_FindtheOriginalTypedStringI/solution.java)|Easy|
 |3349|[Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)|[Solution.java](3349_AdjacentIncreasingSubarraysDetectionI/solution.java)|Easy|
+|3350|[Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/)|[Solution.java](3350_AdjacentIncreasingSubarraysDetectionII/solution.java)|Medium|
 |3363|[Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)|[Solution.java](3363_FindtheMaximumNumberofFruitsCollected/solution.java)|Hard|
 |3408|[Design Task Manager](https://leetcode.com/problems/design-task-manager/)|[Solution.java](3408_DesignTaskManager/solution.java)|Medium|
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)|[Solution.java](3446_SortMatrixbyDiagonals/solution.java)|Medium|
