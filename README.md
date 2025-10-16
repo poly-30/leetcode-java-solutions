@@ -125,6 +125,7 @@ Total Solved: 123
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.java](3495_MinimumOperationstoMakeArrayElementsZero/solution.java)|Hard|
 |3508|[Implement Router](https://leetcode.com/problems/implement-router/description)|[Solution.java](3508_ImplementRouter/solution.java)|Medium|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/)|[Solution.java](3516_FindClosestPerson/solution.java)|Easy|
+|3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/)|[Solution.java](3539_FindSumofArrayProductofMagicalSequences/solution.java)|Hard|
 |3541|[Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)|[Solution.java](3541_FindMostFrequentVowelandConsonant/solution.java)|Easy|
 |3618|[Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/description/)|[Solution.java](3618_SplitArraybyPrimeIndices/solution.java)|Medium|
 |3619|[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/)|[Solution.java](3619_CountIslandsWithTotalValue/solution.java)|Medium|
