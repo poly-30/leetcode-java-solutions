@@ -29,6 +29,7 @@ Total Solved: 126
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)|[Solution.java](165_CompareVersionNumbers/solution.java)|Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution.java](166_FractiontoRecurringDecimal/solution.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution.java](199_BinaryTreeRightSideView/solution.java)|Medium|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution.java](200_NumberofIslands/solution.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Solution.java](209_MinimumSizeSubarraySum/solution.java)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution.java](226_InvertBinaryTree/solution.java)|Easy|
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[Solution.java](231_PowerOfTwo/solution.java)|Easy|
@@ -113,6 +114,7 @@ Total Solved: 126
 |3202|[Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)|[Solution.java](3202_FindtheMaximumLengthof/solution.java)|Medium|
 |3227|[Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)|[Solution.java](3227_VowelsGameinaString/solution.java)|Medium|
 |3330|[Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)|[Solution.java](3330_FindtheOriginalTypedStringI/solution.java)|Easy|
+|3349|[Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)|[Solution.java](3349_AdjacentIncreasingSubarraysDetectionI/solution.java)|Easy|
 |3363|[Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)|[Solution.java](3363_FindtheMaximumNumberofFruitsCollected/solution.java)|Hard|
 |3408|[Design Task Manager](https://leetcode.com/problems/design-task-manager/)|[Solution.java](3408_DesignTaskManager/solution.java)|Medium|
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)|[Solution.java](3446_SortMatrixbyDiagonals/solution.java)|Medium|
@@ -132,3 +134,4 @@ Total Solved: 126
 |3619|[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/)|[Solution.java](3619_CountIslandsWithTotalValue/solution.java)|Medium|
 |3620|[Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/)|[Solution.java](3620_NetworkRecoveryPathways/solution.java)|Hard|
 |3712|[Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/)|[Solution.java](3712_SumofElementsWithFrequencyDivisiblebyK/solution.java)|Easy|
+|3713|[Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/)|[Solution.java](3713_LongestBalancedSubstringI/solution.java)|Medium|
