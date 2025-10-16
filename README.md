@@ -40,6 +40,7 @@ Total Solved: 125
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Solution.java](417_PacificAtlanticWaterFlow/solution.java)|Medium|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution.java](436_FindRightInterval/solution.java)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.java](498_DiagonalTraverse/solution.java)|Medium|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Solution.java](547_NumberofProvinces/solution.java)|Medium|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Solution.java](563_BinaryTreeTilt/solution.java)|Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.java](611_ValidTriangleNumber/Solution.java)|Medium|
 |679|[24 Games](https://leetcode.com/problems/24-game/)|[Solution.java](679_24Game/solution.java)|Hard|
