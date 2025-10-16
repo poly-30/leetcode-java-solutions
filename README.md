@@ -130,3 +130,4 @@ Total Solved: 124
 |3618|[Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/description/)|[Solution.java](3618_SplitArraybyPrimeIndices/solution.java)|Medium|
 |3619|[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/)|[Solution.java](3619_CountIslandsWithTotalValue/solution.java)|Medium|
 |3620|[Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/)|[Solution.java](3620_NetworkRecoveryPathways/solution.java)|Hard|
+|3712|[Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/)|[Solution.java](3712_SumofElementsWithFrequencyDivisiblebyK/solution.java)|Easy|
