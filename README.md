@@ -137,3 +137,18 @@ Total Solved: 131
 |3620|[Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/)|[Solution.java](3620_NetworkRecoveryPathways/solution.java)|Hard|
 |3712|[Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/)|[Solution.java](3712_SumofElementsWithFrequencyDivisiblebyK/solution.java)|Easy|
 |3713|[Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/)|[Solution.java](3713_LongestBalancedSubstringI/solution.java)|Medium|
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+<!---LeetCode Topics End-->
