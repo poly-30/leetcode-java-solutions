@@ -144,6 +144,7 @@ Total Solved: 148
 | ------- |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,4 +173,16 @@ Total Solved: 148
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
