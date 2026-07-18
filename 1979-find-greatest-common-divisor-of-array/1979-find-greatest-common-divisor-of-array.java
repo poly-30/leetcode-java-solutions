@@ -4,10 +4,26 @@ class Solution {
         return gcd(b, a % b);
 
     }
+    
+    int min(int[] arr){
+        int min = arr[0];
+        for(int i : arr){
+            if(min > i) min = i;
+        }
+        return min;
+    }
+
+    int max(int[] arr){
+        int max = arr[0];
+        for(int i : arr){
+            if(max < i) max = i;
+        }
+        return max;
+    }
 
     public int findGCD(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        return gcd(nums[n - 1], nums[0]);
+        int min = min(nums);
+        int max = max(nums);
+        return gcd(max, min);
     }
 }
