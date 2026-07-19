@@ -201,6 +201,7 @@ Total Solved: 175
 |  |
 | ------- |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,4 +214,16 @@ Total Solved: 175
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
