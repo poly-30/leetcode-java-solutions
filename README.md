@@ -162,6 +162,7 @@ Total Solved: 185
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/poly-30/leetcode-java-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Total Solved: 185
 | ------- |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
