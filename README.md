@@ -192,6 +192,7 @@ Total Solved: 187
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -203,6 +204,7 @@ Total Solved: 187
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
