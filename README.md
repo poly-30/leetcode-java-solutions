@@ -149,6 +149,7 @@ Total Solved: 195
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -188,6 +189,7 @@ Total Solved: 195
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/poly-30/leetcode-java-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -243,4 +245,8 @@ Total Solved: 195
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
