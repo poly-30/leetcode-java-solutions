@@ -194,6 +194,7 @@ Total Solved: 212
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -205,6 +206,7 @@ Total Solved: 212
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -264,4 +266,8 @@ Total Solved: 212
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
