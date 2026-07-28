@@ -142,6 +142,7 @@ Total Solved: 216
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -188,6 +189,7 @@ Total Solved: 216
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
@@ -207,6 +209,7 @@ Total Solved: 216
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
