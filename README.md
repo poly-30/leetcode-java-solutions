@@ -145,6 +145,7 @@ Total Solved: 223
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
+| [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -158,6 +159,7 @@ Total Solved: 223
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -279,4 +281,8 @@ Total Solved: 223
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
