@@ -145,6 +145,7 @@ Total Solved: 245
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
@@ -204,6 +205,7 @@ Total Solved: 245
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -220,6 +222,7 @@ Total Solved: 245
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -305,4 +308,12 @@ Total Solved: 245
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poly-30/leetcode-java-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
