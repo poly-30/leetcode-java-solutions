@@ -190,10 +190,12 @@ Total Solved: 259
 | ------- |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
+| [3310-remove-methods-from-project](https://github.com/poly-30/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
+| [3310-remove-methods-from-project](https://github.com/poly-30/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -323,4 +325,8 @@ Total Solved: 259
 | ------- |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/poly-30/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
