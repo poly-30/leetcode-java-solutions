@@ -150,6 +150,7 @@ Total Solved: 284
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +217,7 @@ Total Solved: 284
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -234,6 +236,7 @@ Total Solved: 284
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/poly-30/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -327,6 +330,7 @@ Total Solved: 284
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 ## Queue
 |  |
 | ------- |
@@ -340,6 +344,7 @@ Total Solved: 284
 | ------- |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -356,4 +361,12 @@ Total Solved: 284
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
