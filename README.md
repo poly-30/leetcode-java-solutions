@@ -156,6 +156,7 @@ Total Solved: 305
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poly-30/leetcode-java-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -169,6 +170,7 @@ Total Solved: 305
 | [0003-longest-substring-without-repeating-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -367,6 +369,7 @@ Total Solved: 305
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Minimax
 |  |
 | ------- |
