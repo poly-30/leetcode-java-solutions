@@ -143,6 +143,7 @@ Total Solved: 308
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/poly-30/leetcode-java-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0287-find-the-duplicate-number](https://github.com/poly-30/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -168,6 +169,7 @@ Total Solved: 308
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/poly-30/leetcode-java-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,6 +214,7 @@ Total Solved: 308
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/poly-30/leetcode-java-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
