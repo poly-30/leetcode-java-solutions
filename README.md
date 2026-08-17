@@ -156,6 +156,7 @@ Total Solved: 338
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/poly-30/leetcode-java-solutions/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poly-30/leetcode-java-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
@@ -235,6 +236,7 @@ Total Solved: 338
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/poly-30/leetcode-java-solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -257,6 +259,7 @@ Total Solved: 338
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/poly-30/leetcode-java-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/poly-30/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -374,6 +377,7 @@ Total Solved: 338
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/poly-30/leetcode-java-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
