@@ -229,6 +229,7 @@ Total Solved: 334
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
@@ -250,6 +251,7 @@ Total Solved: 334
 | ------- |
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
@@ -416,4 +418,8 @@ Total Solved: 334
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/poly-30/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
