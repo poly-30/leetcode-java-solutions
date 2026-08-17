@@ -160,6 +160,7 @@ Total Solved: 331
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/poly-30/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/poly-30/leetcode-java-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -272,6 +273,7 @@ Total Solved: 331
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/poly-30/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/poly-30/leetcode-java-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/poly-30/leetcode-java-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -354,6 +356,7 @@ Total Solved: 331
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/poly-30/leetcode-java-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Queue
 |  |
 | ------- |
