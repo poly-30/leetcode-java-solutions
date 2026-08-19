@@ -142,6 +142,7 @@ Total Solved: 344
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/poly-30/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/poly-30/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/poly-30/leetcode-java-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -298,6 +299,7 @@ Total Solved: 344
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/poly-30/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/poly-30/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/poly-30/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -315,6 +317,7 @@ Total Solved: 344
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/poly-30/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
