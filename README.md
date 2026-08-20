@@ -165,6 +165,7 @@ Total Solved: 347
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/poly-30/leetcode-java-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/poly-30/leetcode-java-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -308,6 +309,7 @@ Total Solved: 347
 | ------- |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poly-30/leetcode-java-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
