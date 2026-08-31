@@ -156,6 +156,7 @@ Total Solved: 397
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/poly-30/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -189,6 +190,7 @@ Total Solved: 397
 | [0073-set-matrix-zeroes](https://github.com/poly-30/leetcode-java-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/poly-30/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poly-30/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -350,6 +352,7 @@ Total Solved: 397
 | ------- |
 | [0011-container-with-most-water](https://github.com/poly-30/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/poly-30/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -377,6 +380,7 @@ Total Solved: 397
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/poly-30/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/poly-30/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/poly-30/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
