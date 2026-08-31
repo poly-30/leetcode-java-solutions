@@ -216,6 +216,7 @@ Total Solved: 395
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/poly-30/leetcode-java-solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/poly-30/leetcode-java-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -263,6 +264,7 @@ Total Solved: 395
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/poly-30/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poly-30/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
