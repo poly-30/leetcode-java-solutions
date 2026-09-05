@@ -186,6 +186,7 @@ Total Solved: 412
 | [3875-construct-uniform-parity-array-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -422,6 +423,7 @@ Total Solved: 412
 | [1872-stone-game-viii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/poly-30/leetcode-java-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
 | ------- |
