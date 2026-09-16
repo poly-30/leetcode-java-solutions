@@ -276,6 +276,7 @@ Total Solved: 437
 | [1406-stone-game-iii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/poly-30/leetcode-java-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poly-30/leetcode-java-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,6 +309,7 @@ Total Solved: 437
 | [1406-stone-game-iii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/poly-30/leetcode-java-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poly-30/leetcode-java-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poly-30/leetcode-java-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/poly-30/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -420,6 +422,7 @@ Total Solved: 437
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poly-30/leetcode-java-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/poly-30/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
@@ -436,6 +439,7 @@ Total Solved: 437
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poly-30/leetcode-java-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/poly-30/leetcode-java-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/poly-30/leetcode-java-solutions/tree/master/3903-smallest-stable-index-i) |
