@@ -347,6 +347,7 @@ Total Solved: 470
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/poly-30/leetcode-java-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/1927-sum-game) |
@@ -392,6 +393,7 @@ Total Solved: 470
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poly-30/leetcode-java-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
@@ -562,4 +564,8 @@ Total Solved: 470
 | ------- |
 | [0836-rectangle-overlap](https://github.com/poly-30/leetcode-java-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/poly-30/leetcode-java-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
