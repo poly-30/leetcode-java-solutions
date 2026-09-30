@@ -319,6 +319,7 @@ Total Solved: 484
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/poly-30/leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
@@ -349,6 +350,7 @@ Total Solved: 484
 | [0003-longest-substring-without-repeating-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/poly-30/leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
