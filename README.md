@@ -204,6 +204,7 @@ Total Solved: 495
 | [0041-first-missing-positive](https://github.com/poly-30/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/poly-30/leetcode-java-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/poly-30/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -226,6 +227,7 @@ Total Solved: 495
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -259,6 +261,7 @@ Total Solved: 495
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/poly-30/leetcode-java-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
+| [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/poly-30/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/poly-30/leetcode-java-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -358,6 +361,7 @@ Total Solved: 495
 | [0115-distinct-subsequences](https://github.com/poly-30/leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -384,6 +388,7 @@ Total Solved: 495
 |  |
 | ------- |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -407,6 +412,7 @@ Total Solved: 495
 | ------- |
 | [0020-valid-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
