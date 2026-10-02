@@ -500,6 +500,7 @@ Total Solved: 501
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/poly-30/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -571,6 +572,7 @@ Total Solved: 501
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/poly-30/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/poly-30/leetcode-java-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
