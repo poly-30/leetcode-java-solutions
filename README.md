@@ -150,6 +150,7 @@ Total Solved: 503
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0287-find-the-duplicate-number](https://github.com/poly-30/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/poly-30/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poly-30/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/poly-30/leetcode-java-solutions/tree/master/0835-image-overlap) |
@@ -411,6 +412,7 @@ Total Solved: 503
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -436,6 +438,7 @@ Total Solved: 503
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
