@@ -322,6 +322,7 @@ Total Solved: 506
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/poly-30/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/poly-30/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
@@ -357,6 +358,7 @@ Total Solved: 506
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poly-30/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/poly-30/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/poly-30/leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
@@ -388,6 +390,7 @@ Total Solved: 506
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -596,6 +599,7 @@ Total Solved: 506
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poly-30/leetcode-java-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
