@@ -168,6 +168,7 @@ Total Solved: 525
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/poly-30/leetcode-java-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/poly-30/leetcode-java-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/poly-30/leetcode-java-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/poly-30/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -264,6 +265,7 @@ Total Solved: 525
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0301-remove-invalid-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/poly-30/leetcode-java-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/poly-30/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/poly-30/leetcode-java-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -280,6 +282,7 @@ Total Solved: 525
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/poly-30/leetcode-java-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/poly-30/leetcode-java-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poly-30/leetcode-java-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/poly-30/leetcode-java-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
