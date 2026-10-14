@@ -156,6 +156,7 @@ Total Solved: 549
 | [0835-image-overlap](https://github.com/poly-30/leetcode-java-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/poly-30/leetcode-java-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poly-30/leetcode-java-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/poly-30/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -273,6 +274,7 @@ Total Solved: 549
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0301-remove-invalid-parentheses](https://github.com/poly-30/leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/poly-30/leetcode-java-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/poly-30/leetcode-java-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/poly-30/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/poly-30/leetcode-java-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -289,6 +291,7 @@ Total Solved: 549
 | [0079-word-search](https://github.com/poly-30/leetcode-java-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poly-30/leetcode-java-solutions/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/poly-30/leetcode-java-solutions/tree/master/0835-image-overlap) |
+| [1162-as-far-from-land-as-possible](https://github.com/poly-30/leetcode-java-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/poly-30/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/poly-30/leetcode-java-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poly-30/leetcode-java-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -345,6 +348,7 @@ Total Solved: 549
 | [0877-stone-game](https://github.com/poly-30/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/poly-30/leetcode-java-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1406-stone-game-iii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/poly-30/leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
