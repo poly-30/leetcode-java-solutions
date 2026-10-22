@@ -1,22 +1,32 @@
 class Solution {
-    public boolean predictTheWinner(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
-        
-        // Base case: array of length 1
-        for (int i = 0; i < n; i++) {
-            dp[i] = nums[i];
+
+    private int solve(int[] nums, int start, int end, int player, int[][][] dp) {
+        if (start > end) {
+            return 0;
         }
-        
-        // Build up solutions for larger subproblems
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-                dp[i] = Math.max(nums[i] - dp[i + 1], nums[j] - dp[i]);
+
+        if (dp[start][end][player] != -1) {
+            return dp[start][end][player];
+        }
+
+        if (player == 1) {
+            int choice1 = nums[start] + solve(nums, start + 1, end, 0, dp);
+            int choice2 = nums[end] + solve(nums, start, end - 1, 0, dp);
+            return dp[start][end][player] = Math.max(choice1, choice2);
+        } else {
+            int choice1 = -nums[start] + solve(nums, start + 1, end, 1, dp);
+            int choice2 = -nums[end] + solve(nums, start, end - 1, 1, dp);
+            return dp[start][end][player] = Math.min(choice1, choice2);
+        }
+    }
+
+    public boolean predictTheWinner(int[] nums) {
+        int[][][] dp = new int[nums.length][nums.length][2];
+        for (int[][] dp1 : dp) {
+            for (int[] dp2 : dp1) {
+                Arrays.fill(dp2, -1);
             }
         }
-        
-        // Player 1 wins if the max net score difference is >= 0
-        return dp[0] >= 0;
+        return solve(nums, 0, nums.length - 1, 1, dp) >= 0 ? true : false;
     }
 }
