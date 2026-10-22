@@ -600,6 +600,7 @@ Total Solved: 573
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
@@ -608,6 +609,7 @@ Total Solved: 573
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/poly-30/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/poly-30/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/poly-30/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
