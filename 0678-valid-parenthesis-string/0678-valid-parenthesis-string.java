@@ -15,16 +15,17 @@ class Solution {
                 maxOpen++;
             }
 
-            // If maxOpen is negative, we have more ')' than possible '(' + '*'
+            // If maxOpen is negative, we have more ')' than possible '(' or '*'
             if (maxOpen < 0) {
                 return false;
             }
 
-            // minOpen cannot be negative since we can't have negative open brackets
-            minOpen = Math.max(0, minOpen);
+            // minOpen cannot be negative
+            if (minOpen < 0) {
+                minOpen = 0;
+            }
         }
 
-        // Valid if we can reach 0 open brackets
         return minOpen == 0;
     }
 }
