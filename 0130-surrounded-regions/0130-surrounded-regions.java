@@ -1,58 +1,39 @@
-class Cell {
-    int x;
-    int y;
-    public Cell(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-}
-
 class Solution {
     public void solve(char[][] board) {
-        int[][] directions = new int[][] {{0,1}, {1,0}, {0,-1}, {-1,0}};
-
         int rows = board.length;
+        if (rows < 3) return;
         int cols = board[0].length;
+        if (cols < 3) return;
 
-        Queue<Cell> queue = new LinkedList<>();
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (i == 0 || j == 0 || i == rows - 1 || j == cols - 1) {
-                    if (board[i][j] == 'O') {
-                        queue.add(new Cell(i, j));
-                        board[i][j] = 'B';
-                    }
-                }
-            }
+        int[] queue = new int[rows * cols];
+        int head = 0, tail = 0;
+
+        for (int j = 0; j < cols; j++) {
+            if (board[0][j] == 'O') { board[0][j] = 'B'; queue[tail++] = j; }
+            if (board[rows - 1][j] == 'O') { board[rows - 1][j] = 'B'; queue[tail++] = (rows - 1) * cols + j; }
+        }
+        for (int i = 1; i < rows - 1; i++) {
+            if (board[i][0] == 'O') { board[i][0] = 'B'; queue[tail++] = i * cols; }
+            if (board[i][cols - 1] == 'O') { board[i][cols - 1] = 'B'; queue[tail++] = i * cols + cols - 1; }
         }
 
-        while (!queue.isEmpty()) {
-            Cell cell = queue.poll();
-            int x = cell.x;
-            int y = cell.y;
+        while (head < tail) {
+            int cur = queue[head++];
+            int x = cur / cols;
+            int y = cur % cols;
 
-            for (int[] dir : directions) {
-                int newX = x + dir[0];
-                int newY = y + dir[1];
-                if (isValid(newX, newY, rows, cols) && board[newX][newY] == 'O') {
-                    queue.add(new Cell(newX, newY));
-                    board[newX][newY] = 'B';
-                }
-            }
+            if (x > 0 && board[x - 1][y] == 'O') { board[x - 1][y] = 'B'; queue[tail++] = cur - cols; }
+            if (x < rows - 1 && board[x + 1][y] == 'O') { board[x + 1][y] = 'B'; queue[tail++] = cur + cols; }
+            if (y > 0 && board[x][y - 1] == 'O') { board[x][y - 1] = 'B'; queue[tail++] = cur - 1; }
+            if (y < cols - 1 && board[x][y + 1] == 'O') { board[x][y + 1] = 'B'; queue[tail++] = cur + 1; }
         }
 
         for (int i = 0; i < rows; i++) {
+            char[] row = board[i];
             for (int j = 0; j < cols; j++) {
-                if (board[i][j] == 'B') {
-                    board[i][j] = 'O';
-                } else if (board[i][j] == 'O') {
-                    board[i][j] = 'X';
-                }
+                if (row[j] == 'B') row[j] = 'O';
+                else if (row[j] == 'O') row[j] = 'X';
             }
         }
-    }
-
-    private boolean isValid(int x, int y, int rows, int cols) {
-        return x >= 0 && x < rows && y >= 0 && y < cols;
     }
 }
